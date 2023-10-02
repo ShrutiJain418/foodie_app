@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "931827967244",
+    "project_id": "authenticationapp-100",
+    "storage_bucket": "authenticationapp-100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931827967244:android:cfa06194c1eb62204ad529",
+        "android_client_info": {
+          "package_name": "com.example.authentication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931827967244-nv4eb49meho0mjvvcs0ki49lvp7fqicu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Lsmema9OKBnhY9QWFjEsAQIUQnq-JfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931827967244-635mav8tfmvok7nca9v96hl8l8udftst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931827967244:android:3396a00a8bdf217d4ad529",
+        "android_client_info": {
+          "package_name": "com.example.foodie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931827967244-nv4eb49meho0mjvvcs0ki49lvp7fqicu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Lsmema9OKBnhY9QWFjEsAQIUQnq-JfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931827967244-635mav8tfmvok7nca9v96hl8l8udftst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
